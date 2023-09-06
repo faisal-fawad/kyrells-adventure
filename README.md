@@ -5,7 +5,7 @@
 - Uses visual scripting for a deeper understanding of what goes on behind the scenes
 
 ### Installation:
-1. Clone the [build](Build/) folder from the root directory
+1. Extract the [build](Build/) folder contents from releases
 
 ### Game screenshots:
 ![image](https://user-images.githubusercontent.com/76597599/220186635-b7eebbe5-ac5d-4e50-82bd-0baa2b207944.png)
