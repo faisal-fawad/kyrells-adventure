@@ -4,10 +4,18 @@
 - Consists of six levels with scaling difficulty and a well-built story
 - Uses visual scripting for a deeper understanding of what goes on behind the scenes
 ### Highlighted Features 
-- Wall Extend
+- Plank Mechanic (Wall Extend)
   - While an in-game player's hitbox is within range of a known surfaces edge an input can be pressed allowing the user to extend the playable surface (refer to images)
+  - To deter users from over-using the plank mechanic a cooldown timer was added
+    - Added complexity to user experience
+    - Enabled varyiance in level design
+      - Coins in unique locations
+      - Spikes placed on both vertical and horizontal surfaces, requiring the user to plan and time jumps 
 - Coin Jump
   - While an in-game player's hitbox is within range of a known surfaces edge an input can be pressed allowing the user to jump to previously unreachable locations(refer to images)
+- Level Completion (Level-End portal)
+  - Short Conversations with other characters take place before certain levels in order to create a more submersive in-game experience
+  - Users can take a variety of different paths to complete a level, with the sole condition being that all coins are collected before moving forward within the story
 
 ### Installation:
 1. Extract the [build](Build/) folder contents from releases
