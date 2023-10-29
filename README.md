@@ -1,8 +1,13 @@
 ## Kyrell's Adventure is a 2D Side Scroller built in Unity
 
-### This game...
+### Gameplay Overview...
 - Consists of six levels with scaling difficulty and a well-built story
 - Uses visual scripting for a deeper understanding of what goes on behind the scenes
+### Highlighted Features 
+- Wall Extend
+  - While an in-game player's hitbox is within range of a known surfaces edge an input can be pressed allowing the user to extend the playable surface (refer to images)
+- Coin Jump
+  - While an in-game player's hitbox is within range of a known surfaces edge an input can be pressed allowing the user to jump to previously unreachable locations(refer to images)
 
 ### Installation:
 1. Extract the [build](Build/) folder contents from releases
