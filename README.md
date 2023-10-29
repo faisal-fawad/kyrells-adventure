@@ -8,7 +8,7 @@
   - While an in-game player's hitbox is within range of a known surfaces edge an input can be pressed allowing the user to extend the playable surface (refer to images)
   - To deter users from over-using the plank mechanic a cooldown timer was added
     - Added complexity to user experience
-    - Enabled varyiance in level design
+    - Enabled variance in level design
       - Coins in unique locations
       - Spikes placed on both vertical and horizontal surfaces, requiring the user to plan and time jumps 
 - Coin Jump
