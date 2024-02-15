@@ -14,7 +14,7 @@
 - Coin Jump
   - While an in-game player's hitbox is within range of a known surfaces edge an input can be pressed allowing the user to jump to previously unreachable locations(refer to images)
 - Level Completion (Level-End portal)
-  - Short Conversations with other characters take place before certain levels in order to create a more submersive in-game experience
+  - Short Conversations with other characters take place before certain levels in order to create a more imersive in-game experience
   - Users can take a variety of different paths to complete a level, with the sole condition being that all coins are collected before moving forward within the story
 
 ### Installation:
