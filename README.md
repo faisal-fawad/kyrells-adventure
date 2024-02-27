@@ -1,8 +1,9 @@
 ## Kyrell's Adventure is a 2D Side Scroller built in Unity
 This game was built in the Unity editor utilizing C# and built-in visual scripting features.
+The itch.io web page can be found [here](https://faisal-fawad.itch.io/kyrells-adventure)!
 
 ### Gameplay Overview
-- Consists of six levels with scaling difficulty
+- Consists of six unique levels with scaling difficulty
 - Custom VFX and SFX
 - Unique story of a boy named Kyrell
 
